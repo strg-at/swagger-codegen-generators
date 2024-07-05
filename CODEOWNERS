@@ -1,2 +1,3 @@
-**/Dockerfile* @strg-at/infra
-/.dockerignore @strg-at/infra
+**/Dockerfile* @strg-at/infra @strg-at/dev-leads
+/CODEOWNERS @strg-at/infra
+/.dockerignore @strg-at/infra @strg-at/dev-leads
